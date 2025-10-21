@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <math.h>
 
+// comentário de teste
+
 int main()
 {
     int total_centimos, num_moedas;
