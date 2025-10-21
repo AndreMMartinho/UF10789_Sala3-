@@ -1,0 +1,12 @@
+Objetivo Actividade
+ 
+	•	Formar grupos (3 a 5 alunos).
+	•	Criar repositório no GitHub com nome do grupo.
+	•	Distribuir tarefas simples: cada elemento cria um ficheiro de texto (ex: apresentação, relatório, código simples).
+	•	Cada elemento cria uma branch para trabalhar no seu ficheiro.
+	•	Fazer commits para guardar as alterações.
+	•	Fazer um Pull Request para juntar as alterações na branch principal.
+	•	Um colega revisa e aceita a Pull Request.
+	•	Se houver conflito, tentar resolver com ajuda dos colegas e professor.
+	•	Comunicar no espaço de issues com dúvidas e atualizações.
+	•	No final, todos confirmam que o projeto está atualizado no repositório principal.
